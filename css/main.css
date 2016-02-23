@@ -5,6 +5,11 @@ html, body {
 	height: 100%;
 }
 
+h1 {
+	width: 100%;
+	margin: 0;
+}
+
 .wrapper {
 	height: 100%;
 	overflow: hidden;
@@ -26,20 +31,4 @@ html, body {
 	width: 100%;
 	height: 100%;
 	position: relative;
-}
-
-.section-1 {
-	/*Styles for Section #1*/
-}
-
-.section-2 {
-	/*Styles for Section #1*/
-}
-
-.section-3 {
-	/*Styles for Section #1*/
-}
-
-.section-4 {
-	/*Styles for Section #1*/
 }
